@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Dashboard</h2>
+<div class="grid">
+  <div class="stat"><strong>Total students</strong><br>{{ stats.total_students }}</div>
+  <div class="stat"><strong>Placed</strong><br>{{ stats.placed }}</div>
+  <div class="stat"><strong>Not placed</strong><br>{{ stats.not_placed }}</div>
+  <div class="stat"><strong>Average CGPA</strong><br>{{ stats.average_cgpa or '0.00' }}</div>
+</div>
+
+<div class="row" style="margin-top: 1.5rem;">
+  <div class="card" style="flex: 1; min-width: 320px;">
+    <h3>Recent students</h3>
+    {% if students %}
+    <table>
+      <thead>
+        <tr><th>Name</th><th>Branch</th><th>CGPA</th><th>Status</th></tr>
+      </thead>
+      <tbody>
+        {% for student in students %}
+        <tr>
+          <td>{{ student.full_name }}</td>
+          <td>{{ student.branch }}</td>
+          <td>{{ student.cgpa }}</td>
+          <td>{{ student.placement_status }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+    <p>No student records yet.</p>
+    {% endif %}
+  </div>
+
+  <div class="card" style="flex: 1; min-width: 320px;">
+    <h3>Recent predictions</h3>
+    {% if history %}
+    <table>
+      <thead>
+        <tr><th>Student</th><th>Prediction</th><th>Probability</th></tr>
+      </thead>
+      <tbody>
+        {% for item in history %}
+        <tr>
+          <td>{{ item.student_id }}</td>
+          <td>{{ item.predicted_status }}</td>
+          <td>{{ item.placement_probability }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+    <p>No prediction history yet.</p>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

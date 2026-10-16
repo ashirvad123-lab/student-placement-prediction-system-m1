@@ -1,0 +1,501 @@
+CGPA,Tenth_Percentage,Twelfth_Percentage,Branch,Backlogs,Internship_Experience,Technical_Skill_Level,Aptitude_Score,Communication_Skills,Projects_Completed,Placement_Status
+9.57,59.92,74.05,CSE,0,Yes,Advanced,91.02,6.58,3,Placed
+8.27,95.04,69.63,IT,1,No,Advanced,24.65,3.87,1,Placed
+6.36,67.56,96.51,ECE,0,Yes,Beginner,75.01,9.51,4,Placed
+7.2,58.33,50.64,Mechanical,0,No,Beginner,25.55,3.52,0,Not Placed
+9.4,60.2,50.92,Mechanical,0,Yes,Advanced,85.26,3.98,1,Placed
+9.13,54.89,51.61,EEE,0,Yes,Beginner,69.0,5.64,3,Placed
+5.2,85.99,65.08,IT,0,No,Intermediate,51.56,8.55,1,Not Placed
+8.69,59.32,70.94,Civil,3,Yes,Advanced,68.25,3.0,2,Placed
+5.56,59.57,70.07,ECE,1,No,Advanced,22.74,6.61,5,Not Placed
+9.85,51.07,78.19,IT,0,Yes,Advanced,31.87,9.35,3,Placed
+7.81,62.72,65.6,EEE,0,Yes,Advanced,57.57,3.95,4,Placed
+9.97,66.76,83.49,IT,1,No,Beginner,69.01,8.21,2,Placed
+5.72,96.56,95.19,CSE,0,No,Intermediate,44.39,2.86,4,Not Placed
+8.04,73.06,57.65,EEE,0,Yes,Intermediate,24.3,9.82,0,Placed
+5.33,99.17,62.84,Mechanical,0,Yes,Beginner,25.01,4.45,2,Not Placed
+7.89,77.22,93.35,ECE,0,Yes,Intermediate,65.24,3.36,3,Placed
+5.05,62.49,73.55,CSE,0,Yes,Advanced,44.72,8.57,2,Not Placed
+9.24,60.48,78.72,EEE,1,Yes,Intermediate,40.92,4.35,1,Placed
+8.03,82.97,78.16,ECE,1,No,Advanced,77.73,4.78,1,Placed
+7.15,90.03,92.42,ECE,0,No,Intermediate,74.12,5.85,2,Placed
+5.25,88.08,59.02,IT,0,Yes,Intermediate,85.03,6.61,2,Placed
+9.32,95.69,69.05,Civil,0,No,Advanced,57.12,3.93,3,Placed
+6.51,60.48,80.93,Civil,0,No,Advanced,52.57,5.1,1,Not Placed
+6.22,89.99,79.64,Mechanical,3,No,Beginner,71.45,3.39,3,Not Placed
+5.2,79.59,61.49,CSE,1,Yes,Intermediate,60.05,5.8,2,Not Placed
+9.9,68.43,99.77,EEE,0,Yes,Intermediate,35.49,3.62,2,Placed
+7.18,99.39,90.3,Mechanical,0,Yes,Intermediate,63.01,8.98,2,Placed
+8.11,72.55,91.01,Civil,1,No,Intermediate,67.8,2.18,2,Placed
+9.15,83.0,72.47,ECE,0,Yes,Intermediate,20.11,7.52,1,Placed
+7.11,68.32,70.37,EEE,0,No,Intermediate,85.58,3.35,2,Not Placed
+8.01,79.98,83.03,CSE,0,No,Intermediate,76.74,3.68,3,Placed
+9.72,90.56,84.8,IT,1,No,Intermediate,29.28,4.92,2,Placed
+7.24,93.77,87.52,IT,0,Yes,Advanced,37.45,9.57,2,Placed
+5.75,64.35,81.11,EEE,0,No,Advanced,44.49,2.07,3,Not Placed
+9.18,63.03,65.95,CSE,0,No,Advanced,91.64,2.22,4,Placed
+9.71,66.03,79.1,EEE,0,No,Intermediate,80.78,2.26,2,Placed
+8.79,84.57,85.41,IT,0,No,Beginner,50.0,8.07,1,Placed
+7.75,99.37,86.48,Mechanical,0,No,Intermediate,44.76,6.8,2,Placed
+9.09,71.77,99.32,Mechanical,0,Yes,Intermediate,51.7,6.75,2,Placed
+5.84,78.13,77.57,Mechanical,0,Yes,Intermediate,84.73,4.73,0,Placed
+8.67,56.18,91.5,Civil,1,No,Advanced,30.65,5.66,2,Placed
+8.13,50.82,59.22,EEE,0,No,Intermediate,73.89,6.08,2,Placed
+5.39,66.13,91.81,Civil,0,Yes,Beginner,26.57,9.28,4,Not Placed
+9.87,72.34,57.09,EEE,1,Yes,Beginner,53.29,5.9,4,Placed
+8.71,68.85,53.67,IT,0,Yes,Intermediate,34.57,9.42,2,Placed
+6.94,90.42,65.68,CSE,1,No,Intermediate,67.33,8.86,5,Placed
+7.95,72.03,92.23,IT,0,Yes,Intermediate,71.3,6.22,2,Placed
+7.16,82.12,90.33,EEE,2,No,Intermediate,51.99,4.74,2,Placed
+6.8,78.2,88.5,IT,0,No,Advanced,68.58,4.72,1,Placed
+5.4,72.46,94.59,CSE,0,No,Intermediate,28.09,9.8,2,Placed
+9.44,54.41,62.04,CSE,0,Yes,Beginner,88.37,7.68,1,Placed
+5.65,77.3,51.9,Mechanical,2,Yes,Intermediate,64.76,9.93,3,Not Placed
+5.85,84.33,86.15,IT,1,Yes,Intermediate,24.51,8.79,2,Not Placed
+7.81,80.34,70.72,EEE,0,No,Beginner,22.87,8.9,2,Placed
+6.59,74.86,68.98,CSE,0,Yes,Intermediate,62.22,7.93,2,Placed
+7.66,63.94,51.5,IT,2,No,Beginner,75.58,2.96,2,Not Placed
+8.16,77.34,72.06,IT,0,No,Advanced,97.98,4.99,3,Placed
+8.54,88.67,66.39,CSE,0,Yes,Beginner,34.57,3.45,1,Placed
+9.93,71.2,89.15,IT,0,No,Beginner,65.06,5.43,1,Placed
+6.51,72.92,85.38,Mechanical,0,Yes,Intermediate,39.58,9.91,1,Placed
+6.63,83.37,80.26,Civil,1,Yes,Beginner,65.62,6.62,0,Not Placed
+6.78,69.56,67.61,ECE,0,Yes,Advanced,79.41,2.58,0,Placed
+9.87,82.68,65.03,ECE,0,No,Beginner,49.91,7.54,3,Placed
+7.32,80.11,57.43,CSE,0,Yes,Advanced,23.33,5.97,2,Placed
+7.14,99.89,89.81,Mechanical,0,Yes,Intermediate,91.27,3.18,3,Placed
+5.43,59.22,72.27,CSE,3,No,Beginner,83.92,5.69,2,Not Placed
+8.02,70.56,76.31,IT,0,No,Advanced,94.07,3.31,2,Placed
+9.85,70.25,86.27,Mechanical,0,Yes,Intermediate,100.0,2.14,1,Placed
+7.75,82.13,56.57,Mechanical,0,No,Beginner,65.99,4.91,0,Placed
+9.33,96.88,90.86,CSE,0,No,Beginner,76.15,4.31,1,Placed
+8.3,65.05,64.23,IT,0,No,Advanced,99.03,5.18,0,Placed
+9.89,82.12,56.88,IT,1,Yes,Intermediate,58.7,2.92,0,Placed
+6.06,69.1,91.63,ECE,0,Yes,Intermediate,28.88,7.85,1,Not Placed
+9.45,95.39,90.56,IT,1,No,Intermediate,49.36,4.58,1,Placed
+7.58,67.06,96.75,ECE,0,No,Intermediate,30.15,9.32,4,Placed
+7.42,80.36,90.21,ECE,0,No,Advanced,59.96,2.0,3,Placed
+7.06,84.81,65.28,EEE,0,Yes,Intermediate,98.6,5.28,5,Placed
+7.88,50.75,93.4,Mechanical,0,Yes,Beginner,83.6,3.27,2,Placed
+6.04,68.5,99.88,EEE,0,Yes,Intermediate,68.82,2.72,0,Not Placed
+9.31,53.77,60.79,ECE,0,No,Advanced,39.87,8.42,0,Placed
+5.08,96.08,88.08,EEE,0,No,Advanced,22.5,6.1,3,Not Placed
+8.16,52.87,73.17,ECE,1,No,Intermediate,89.55,2.68,4,Placed
+5.96,71.14,76.56,EEE,0,Yes,Beginner,44.78,5.15,0,Not Placed
+7.72,69.05,93.55,EEE,0,Yes,Intermediate,62.09,3.59,4,Placed
+7.47,77.44,53.31,IT,0,No,Intermediate,57.84,6.93,0,Placed
+8.49,54.14,79.12,CSE,0,No,Intermediate,52.46,7.69,2,Placed
+6.5,72.69,69.04,ECE,0,Yes,Advanced,65.03,3.37,2,Placed
+8.92,61.07,57.78,IT,0,No,Beginner,93.52,4.11,2,Placed
+6.15,72.74,72.72,ECE,0,No,Advanced,86.55,5.05,1,Placed
+5.29,52.31,89.15,Civil,1,Yes,Beginner,68.18,2.82,0,Not Placed
+6.74,99.38,92.02,CSE,0,No,Intermediate,70.89,7.94,2,Placed
+6.13,51.41,65.9,IT,0,Yes,Intermediate,38.85,8.71,2,Not Placed
+7.92,57.08,72.75,EEE,0,No,Intermediate,81.62,3.8,2,Placed
+8.96,67.33,98.6,CSE,0,Yes,Advanced,37.57,2.39,1,Placed
+7.95,82.27,93.81,Mechanical,1,No,Intermediate,29.3,4.65,0,Placed
+8.8,50.67,58.37,ECE,0,Yes,Beginner,48.98,9.39,1,Placed
+5.28,55.47,95.28,EEE,0,Yes,Beginner,31.55,5.86,3,Not Placed
+7.21,69.06,62.28,ECE,0,Yes,Beginner,61.05,8.93,1,Placed
+8.61,68.68,59.29,Mechanical,3,No,Beginner,80.66,5.81,2,Placed
+9.11,78.24,85.61,CSE,0,No,Beginner,77.18,5.01,1,Placed
+8.59,87.98,56.34,ECE,2,No,Beginner,99.24,8.89,3,Placed
+5.43,99.22,83.67,ECE,0,No,Beginner,42.2,7.08,4,Not Placed
+7.83,95.31,54.66,CSE,0,Yes,Intermediate,61.7,7.03,3,Placed
+8.02,63.95,67.63,Mechanical,3,No,Intermediate,59.67,5.5,4,Not Placed
+9.94,60.03,79.8,IT,0,Yes,Intermediate,31.55,6.75,4,Placed
+6.49,74.26,74.28,ECE,0,Yes,Intermediate,71.14,8.17,1,Placed
+8.56,90.58,67.99,Civil,0,Yes,Intermediate,31.73,9.22,2,Placed
+8.19,53.2,69.95,Mechanical,2,Yes,Intermediate,52.06,9.71,0,Placed
+9.57,68.74,59.24,CSE,0,No,Intermediate,98.21,3.96,4,Placed
+7.4,99.96,91.32,Mechanical,0,No,Advanced,57.5,3.7,1,Not Placed
+7.16,62.9,59.63,EEE,3,Yes,Intermediate,23.59,2.44,3,Not Placed
+9.15,81.0,82.72,Mechanical,0,No,Advanced,23.82,4.73,2,Placed
+5.6,69.61,66.22,Civil,0,No,Intermediate,83.06,2.58,2,Not Placed
+7.21,78.47,58.95,CSE,0,Yes,Beginner,88.87,3.37,3,Placed
+9.24,55.5,98.25,ECE,0,Yes,Intermediate,33.99,2.09,3,Placed
+8.77,67.46,79.43,CSE,0,No,Intermediate,29.49,6.33,2,Placed
+5.43,79.92,53.21,EEE,0,No,Beginner,25.14,9.68,0,Not Placed
+9.85,93.68,91.94,Civil,1,Yes,Intermediate,60.26,3.13,1,Placed
+5.24,71.32,58.82,EEE,1,Yes,Intermediate,71.79,9.09,2,Not Placed
+8.03,51.37,67.29,IT,0,Yes,Intermediate,37.86,9.73,2,Placed
+9.22,86.61,54.29,EEE,0,Yes,Beginner,39.74,4.51,5,Placed
+9.56,69.65,81.78,Mechanical,0,No,Intermediate,59.14,3.5,5,Placed
+6.02,81.35,78.51,ECE,1,No,Intermediate,24.88,4.23,3,Not Placed
+6.09,90.82,51.3,Civil,0,Yes,Intermediate,89.41,5.73,3,Placed
+5.51,89.72,84.09,IT,0,No,Advanced,93.14,3.96,2,Not Placed
+7.55,64.93,51.79,Civil,1,Yes,Intermediate,27.13,9.37,1,Not Placed
+8.64,63.95,57.77,ECE,0,Yes,Advanced,75.93,9.38,3,Placed
+5.37,76.07,59.75,CSE,0,No,Intermediate,58.55,3.62,2,Not Placed
+6.13,66.4,98.69,EEE,0,No,Intermediate,65.82,9.27,2,Placed
+9.88,71.39,77.21,Civil,0,No,Intermediate,91.86,7.17,0,Placed
+7.98,89.65,63.33,Civil,0,No,Advanced,30.15,6.16,2,Placed
+9.78,72.16,78.74,EEE,3,No,Intermediate,50.95,4.92,1,Placed
+6.38,50.84,53.32,CSE,0,No,Advanced,73.56,2.71,3,Not Placed
+7.1,76.12,71.49,ECE,1,Yes,Beginner,63.86,5.98,3,Placed
+9.48,79.58,96.99,Civil,0,No,Intermediate,60.24,9.79,2,Placed
+5.61,99.55,99.38,ECE,0,No,Beginner,27.08,2.12,1,Not Placed
+7.04,98.89,86.89,IT,0,Yes,Beginner,28.6,2.53,3,Not Placed
+6.75,68.45,91.68,Mechanical,0,Yes,Intermediate,68.16,2.52,2,Placed
+7.33,76.03,96.66,CSE,0,No,Advanced,27.19,2.11,5,Placed
+7.42,52.78,84.03,CSE,0,No,Advanced,89.47,2.77,5,Placed
+8.22,98.27,69.59,Civil,2,No,Intermediate,78.1,5.66,2,Placed
+5.88,60.01,89.69,CSE,0,Yes,Intermediate,23.15,7.69,4,Placed
+9.75,82.17,60.33,EEE,0,Yes,Intermediate,34.99,2.6,2,Placed
+8.71,71.64,99.6,Mechanical,0,Yes,Intermediate,97.55,6.28,0,Placed
+7.34,86.3,79.32,ECE,0,Yes,Intermediate,66.29,6.41,3,Placed
+9.0,63.95,51.16,CSE,0,Yes,Intermediate,55.36,6.24,4,Placed
+5.9,81.64,74.68,Civil,1,Yes,Advanced,30.73,8.36,3,Placed
+6.71,76.27,89.51,Civil,1,No,Intermediate,50.47,9.48,2,Not Placed
+9.51,66.9,85.29,CSE,1,No,Intermediate,47.78,7.24,1,Placed
+5.66,54.86,50.99,ECE,0,No,Intermediate,71.72,8.11,3,Placed
+7.26,58.5,77.46,IT,3,Yes,Intermediate,55.11,8.77,2,Placed
+8.9,72.33,82.57,Civil,1,No,Beginner,35.02,9.48,2,Placed
+6.53,95.75,59.73,IT,0,Yes,Intermediate,43.76,3.46,4,Placed
+6.78,52.11,72.55,CSE,1,Yes,Intermediate,28.78,8.05,0,Not Placed
+9.72,84.81,76.89,Civil,0,No,Intermediate,82.71,6.14,5,Placed
+8.23,94.9,51.37,IT,0,Yes,Intermediate,81.07,3.0,3,Placed
+7.52,82.83,57.63,IT,0,No,Intermediate,59.96,4.38,3,Placed
+5.93,80.67,55.4,ECE,0,Yes,Beginner,90.95,9.68,4,Placed
+7.78,98.96,94.36,ECE,0,No,Intermediate,78.54,3.21,0,Placed
+5.01,92.83,95.35,CSE,0,No,Intermediate,42.29,7.48,5,Not Placed
+7.45,66.1,59.24,IT,0,Yes,Advanced,95.31,4.41,2,Placed
+9.24,68.66,89.54,ECE,0,Yes,Advanced,25.81,5.99,1,Placed
+5.52,96.02,73.87,Mechanical,1,No,Intermediate,57.16,3.93,2,Not Placed
+9.4,73.11,67.43,Mechanical,0,Yes,Advanced,27.66,6.59,2,Placed
+5.71,93.99,63.23,Civil,0,No,Intermediate,31.68,7.18,1,Not Placed
+8.53,60.8,56.29,ECE,0,No,Intermediate,83.14,7.22,1,Placed
+6.61,87.51,71.12,EEE,1,Yes,Intermediate,82.73,8.46,1,Placed
+5.08,79.62,57.05,Mechanical,0,No,Beginner,91.58,5.39,2,Not Placed
+8.72,74.18,71.77,EEE,1,Yes,Intermediate,83.47,9.8,3,Placed
+7.87,66.0,52.59,EEE,0,Yes,Advanced,88.27,5.31,5,Placed
+6.31,82.8,75.89,EEE,1,No,Beginner,37.49,2.95,1,Not Placed
+5.04,92.09,50.08,EEE,1,Yes,Intermediate,62.42,4.3,0,Not Placed
+5.64,80.1,72.87,CSE,0,Yes,Intermediate,91.34,9.82,4,Placed
+5.34,82.5,80.88,Mechanical,0,No,Intermediate,49.1,3.23,3,Not Placed
+5.8,72.47,68.15,IT,0,No,Intermediate,70.91,5.93,1,Not Placed
+6.4,89.9,98.37,CSE,0,No,Intermediate,73.32,8.37,3,Placed
+6.02,88.74,60.27,Civil,0,No,Beginner,53.09,7.89,2,Not Placed
+8.08,70.5,69.77,EEE,0,Yes,Advanced,72.06,8.03,4,Placed
+5.21,57.4,70.61,ECE,0,Yes,Advanced,49.57,9.64,1,Not Placed
+8.77,51.55,73.84,CSE,3,Yes,Advanced,25.74,9.85,4,Placed
+7.71,84.18,70.64,ECE,0,No,Intermediate,42.12,6.57,2,Placed
+9.67,71.94,56.99,Mechanical,1,No,Advanced,91.74,8.73,0,Placed
+7.77,87.76,93.83,IT,1,Yes,Beginner,36.39,9.29,1,Placed
+6.83,72.92,64.2,ECE,0,No,Beginner,37.46,5.51,0,Not Placed
+8.7,88.48,56.38,CSE,0,No,Advanced,83.1,5.28,3,Placed
+7.83,77.49,60.93,EEE,3,No,Intermediate,57.86,6.87,1,Not Placed
+8.85,52.19,83.36,ECE,1,Yes,Advanced,36.61,6.3,2,Placed
+7.54,75.6,86.25,IT,0,No,Beginner,81.5,4.59,1,Placed
+5.41,66.76,73.55,CSE,0,Yes,Intermediate,47.68,4.95,4,Placed
+6.97,99.13,66.46,EEE,0,No,Intermediate,21.88,8.79,4,Not Placed
+6.22,60.56,54.55,Mechanical,0,No,Advanced,46.79,4.85,3,Not Placed
+6.37,53.47,85.33,Mechanical,0,No,Intermediate,28.22,8.02,3,Placed
+6.22,54.3,53.99,EEE,0,No,Intermediate,57.54,8.27,4,Placed
+7.04,73.33,94.67,IT,0,Yes,Intermediate,27.09,5.89,4,Placed
+5.17,70.1,73.74,EEE,0,Yes,Intermediate,84.43,9.64,4,Placed
+5.21,89.73,81.52,Civil,2,Yes,Intermediate,26.79,7.72,3,Not Placed
+9.68,84.62,84.1,CSE,0,No,Beginner,30.4,6.07,3,Placed
+7.4,53.01,57.02,Mechanical,0,Yes,Advanced,61.94,8.34,2,Placed
+9.98,56.12,51.87,ECE,0,No,Intermediate,28.8,9.41,4,Placed
+9.45,88.19,93.34,Mechanical,0,Yes,Beginner,63.34,9.53,1,Placed
+7.64,77.73,61.76,ECE,1,No,Beginner,44.75,7.15,1,Not Placed
+6.93,79.84,89.88,Mechanical,3,Yes,Intermediate,32.3,3.93,3,Not Placed
+5.35,56.53,60.71,Civil,0,No,Intermediate,21.37,6.89,5,Not Placed
+8.23,70.71,70.89,IT,0,No,Beginner,76.92,5.84,2,Placed
+9.58,50.81,99.84,EEE,0,No,Advanced,63.85,4.93,2,Placed
+9.18,94.2,88.9,EEE,0,Yes,Intermediate,49.4,8.24,4,Placed
+9.58,90.98,56.41,EEE,0,No,Intermediate,86.14,3.7,4,Placed
+9.66,58.43,56.46,IT,1,Yes,Beginner,99.96,6.77,2,Placed
+9.51,81.75,71.27,Mechanical,0,Yes,Beginner,40.2,3.95,3,Placed
+7.26,90.47,86.62,CSE,2,No,Intermediate,53.17,3.13,2,Not Placed
+9.17,66.61,73.1,EEE,0,No,Advanced,24.63,7.56,3,Placed
+9.98,52.15,51.78,CSE,1,Yes,Intermediate,66.31,3.63,1,Placed
+6.92,61.69,78.3,Mechanical,0,No,Intermediate,87.26,5.0,3,Placed
+6.29,69.48,93.02,IT,0,Yes,Intermediate,96.3,9.41,1,Placed
+5.95,50.92,91.4,ECE,1,No,Intermediate,52.46,6.39,2,Not Placed
+5.33,76.18,87.76,IT,1,Yes,Intermediate,87.77,3.89,1,Not Placed
+7.55,89.77,95.91,ECE,0,Yes,Intermediate,54.66,9.71,2,Placed
+9.19,50.56,56.1,Civil,1,Yes,Beginner,81.95,2.06,3,Placed
+9.24,74.79,99.43,EEE,0,Yes,Intermediate,40.98,7.16,1,Placed
+5.11,88.94,62.54,IT,0,No,Intermediate,80.04,7.09,4,Placed
+7.28,65.55,67.76,Civil,0,No,Advanced,33.15,7.34,3,Placed
+6.09,60.53,59.23,CSE,2,No,Intermediate,49.91,8.77,5,Not Placed
+7.69,73.94,65.27,IT,0,No,Beginner,94.76,6.77,3,Placed
+5.33,88.27,88.95,Mechanical,0,Yes,Intermediate,74.66,3.28,2,Placed
+6.34,83.04,75.75,Civil,0,Yes,Beginner,35.11,3.44,2,Placed
+9.09,76.31,60.41,Civil,0,Yes,Intermediate,39.16,9.38,3,Placed
+8.71,51.67,66.74,CSE,0,No,Beginner,40.15,2.46,2,Not Placed
+6.85,87.64,98.11,Civil,0,Yes,Advanced,34.73,8.93,3,Placed
+8.27,76.87,81.35,Civil,0,No,Advanced,78.64,5.28,4,Placed
+5.45,98.01,93.33,Civil,0,No,Beginner,31.75,7.2,1,Not Placed
+6.77,98.86,63.31,Civil,1,No,Beginner,52.54,6.63,3,Not Placed
+6.65,99.49,88.62,ECE,0,No,Beginner,79.06,8.55,2,Placed
+6.73,96.42,70.66,EEE,0,No,Advanced,98.98,4.99,2,Placed
+7.3,87.35,74.67,EEE,0,No,Intermediate,44.28,8.43,1,Placed
+8.12,55.22,58.05,Mechanical,0,Yes,Intermediate,94.0,9.66,3,Placed
+5.38,69.78,76.13,EEE,0,No,Advanced,72.02,8.75,3,Placed
+8.33,71.93,75.18,Mechanical,0,Yes,Beginner,29.32,9.76,2,Placed
+6.54,78.38,73.94,Mechanical,0,No,Advanced,97.18,2.79,2,Placed
+5.29,65.51,88.5,CSE,0,No,Intermediate,50.09,4.64,4,Not Placed
+7.34,57.76,73.0,IT,0,Yes,Intermediate,47.61,4.24,3,Placed
+7.37,54.73,86.59,EEE,0,No,Advanced,27.3,2.72,3,Not Placed
+8.46,85.9,69.8,Mechanical,0,No,Advanced,75.6,8.92,2,Placed
+5.69,58.26,90.75,Civil,1,Yes,Advanced,39.32,9.67,3,Not Placed
+6.19,98.81,51.66,CSE,0,No,Intermediate,73.58,6.96,1,Not Placed
+6.73,88.21,77.3,IT,0,No,Intermediate,65.47,7.7,2,Placed
+7.21,91.5,80.1,IT,0,No,Intermediate,39.88,8.03,1,Placed
+6.29,67.52,77.57,CSE,0,No,Intermediate,22.63,5.08,3,Not Placed
+9.73,94.26,52.14,EEE,0,Yes,Intermediate,83.16,7.02,3,Placed
+6.43,63.96,87.35,EEE,0,Yes,Intermediate,56.98,5.36,1,Placed
+7.91,58.54,66.32,Mechanical,0,Yes,Intermediate,64.43,6.16,3,Placed
+9.56,57.4,57.69,Civil,2,No,Advanced,21.83,7.29,2,Placed
+9.58,75.92,54.09,IT,0,Yes,Beginner,33.55,6.97,4,Placed
+6.68,93.24,70.65,CSE,2,No,Beginner,72.71,6.3,3,Placed
+6.58,51.27,76.65,EEE,0,No,Intermediate,55.45,5.09,0,Not Placed
+8.27,51.87,93.58,IT,0,Yes,Intermediate,94.81,6.26,3,Placed
+8.64,97.06,76.81,Mechanical,0,No,Intermediate,71.79,3.01,3,Placed
+9.15,64.34,93.64,Mechanical,0,No,Intermediate,24.81,3.44,3,Placed
+8.71,78.16,77.42,Mechanical,0,No,Advanced,95.83,4.75,2,Placed
+9.78,54.17,76.8,IT,2,No,Advanced,44.92,6.08,3,Placed
+6.67,57.69,94.31,Mechanical,0,Yes,Intermediate,66.73,5.1,3,Placed
+7.02,65.53,60.77,EEE,0,Yes,Advanced,96.72,8.74,3,Placed
+5.14,91.07,72.51,EEE,3,No,Beginner,37.82,4.28,2,Not Placed
+6.72,52.19,77.91,IT,0,No,Advanced,77.55,7.87,3,Placed
+9.87,72.83,92.91,CSE,0,No,Advanced,39.46,7.26,1,Placed
+8.22,79.68,87.47,EEE,0,No,Intermediate,99.49,2.8,5,Placed
+9.16,87.15,63.91,ECE,0,Yes,Advanced,36.59,5.85,1,Placed
+9.06,94.6,72.47,IT,0,Yes,Intermediate,81.25,8.64,2,Placed
+9.77,61.14,56.98,EEE,0,No,Advanced,91.44,9.89,3,Placed
+8.5,81.33,82.28,IT,0,No,Intermediate,64.39,7.88,1,Placed
+6.81,75.64,53.8,CSE,0,No,Beginner,71.42,4.68,3,Not Placed
+8.63,71.8,54.07,Mechanical,0,Yes,Beginner,88.6,5.98,3,Placed
+8.16,79.03,76.94,CSE,1,Yes,Intermediate,43.53,7.77,5,Placed
+8.36,87.23,68.6,IT,0,No,Advanced,56.15,8.95,1,Placed
+9.05,70.79,69.88,Mechanical,1,No,Intermediate,73.61,9.94,2,Placed
+6.26,94.8,95.25,EEE,0,Yes,Advanced,71.94,7.16,4,Placed
+6.55,90.42,77.63,EEE,0,No,Intermediate,62.9,7.7,2,Not Placed
+5.52,84.93,92.88,CSE,0,Yes,Intermediate,41.71,6.65,2,Not Placed
+9.79,53.56,87.97,EEE,0,Yes,Intermediate,87.54,8.64,5,Placed
+6.33,74.23,82.96,Civil,0,No,Intermediate,96.43,4.78,1,Placed
+5.6,58.15,89.69,Civil,0,Yes,Beginner,83.52,2.09,4,Not Placed
+7.42,71.43,87.43,CSE,0,Yes,Intermediate,98.3,4.01,1,Placed
+5.41,77.82,70.12,IT,0,Yes,Beginner,50.89,6.48,2,Placed
+8.44,83.88,59.2,IT,0,Yes,Intermediate,42.37,6.38,2,Placed
+6.27,79.18,85.06,EEE,0,Yes,Beginner,46.05,8.15,3,Not Placed
+5.84,93.52,70.46,IT,0,No,Beginner,97.84,6.83,1,Placed
+8.49,56.1,74.36,EEE,2,Yes,Intermediate,61.98,8.42,2,Placed
+8.9,87.02,99.64,EEE,0,Yes,Beginner,82.87,4.36,5,Placed
+9.46,80.84,53.23,CSE,2,Yes,Intermediate,57.19,5.48,4,Placed
+5.24,83.96,56.24,CSE,0,No,Advanced,81.17,4.63,3,Not Placed
+9.81,75.48,50.87,Mechanical,3,Yes,Intermediate,48.71,4.04,2,Placed
+8.52,85.91,55.92,CSE,1,Yes,Advanced,21.13,8.9,3,Placed
+9.78,69.86,63.85,IT,1,No,Intermediate,42.73,9.63,2,Placed
+8.23,54.69,62.63,ECE,0,No,Advanced,84.12,4.64,2,Placed
+5.65,97.03,97.97,IT,0,No,Beginner,99.54,5.14,4,Placed
+8.88,59.21,75.09,CSE,0,Yes,Intermediate,54.53,5.3,1,Placed
+8.44,55.78,99.91,CSE,3,Yes,Intermediate,50.11,7.65,2,Placed
+5.8,79.25,58.53,CSE,1,Yes,Advanced,55.5,2.0,2,Not Placed
+6.55,76.31,84.56,Mechanical,0,Yes,Intermediate,86.01,8.08,3,Placed
+5.75,79.28,72.29,CSE,0,No,Intermediate,66.17,9.21,3,Placed
+9.04,82.49,93.41,ECE,0,No,Advanced,44.98,2.68,3,Placed
+8.0,55.24,60.66,Mechanical,2,No,Advanced,86.98,6.9,4,Placed
+6.8,68.74,50.65,Mechanical,3,Yes,Intermediate,64.84,3.22,3,Not Placed
+7.42,94.71,50.22,ECE,1,No,Advanced,74.66,3.58,2,Placed
+6.3,61.33,60.18,ECE,0,Yes,Beginner,49.49,6.26,3,Placed
+7.71,58.13,62.45,CSE,0,No,Intermediate,92.44,3.38,4,Placed
+7.06,68.53,77.27,Civil,0,No,Intermediate,77.42,6.3,0,Placed
+8.89,80.01,55.91,CSE,0,Yes,Advanced,40.46,3.25,3,Placed
+5.84,93.11,79.75,EEE,0,No,Advanced,76.55,9.75,0,Placed
+5.79,64.99,72.59,Civil,0,No,Advanced,23.71,3.49,3,Not Placed
+7.17,81.5,91.25,Civil,1,No,Beginner,86.54,4.84,2,Placed
+6.42,93.81,87.6,IT,0,Yes,Intermediate,72.25,4.39,3,Placed
+9.39,97.21,58.56,Civil,0,No,Intermediate,43.15,2.14,1,Placed
+5.28,78.37,76.4,Mechanical,0,No,Beginner,42.84,9.4,3,Not Placed
+8.41,53.36,80.62,Civil,0,Yes,Advanced,34.39,3.16,1,Placed
+9.72,80.75,53.13,CSE,0,No,Advanced,77.69,6.22,0,Placed
+8.98,75.83,68.64,EEE,0,No,Intermediate,76.71,9.28,3,Placed
+8.57,88.94,91.66,CSE,0,No,Intermediate,97.32,3.4,1,Placed
+6.47,93.41,62.1,IT,0,No,Intermediate,39.65,6.38,3,Not Placed
+8.2,60.83,53.09,CSE,1,Yes,Intermediate,30.71,6.71,2,Not Placed
+6.99,58.95,90.31,EEE,0,No,Intermediate,92.2,4.86,1,Placed
+5.72,81.54,95.74,IT,0,Yes,Advanced,38.07,7.61,2,Placed
+8.56,78.78,50.15,ECE,1,Yes,Advanced,37.36,9.13,0,Placed
+8.46,67.23,52.65,ECE,1,Yes,Intermediate,85.42,9.67,1,Placed
+5.32,84.33,77.41,Mechanical,0,Yes,Advanced,37.25,2.63,0,Not Placed
+6.97,88.32,74.04,EEE,0,No,Intermediate,66.66,4.37,2,Placed
+5.86,88.08,99.1,EEE,0,No,Advanced,52.23,4.52,4,Placed
+9.27,79.48,75.53,Civil,0,Yes,Intermediate,69.63,6.76,2,Placed
+8.85,76.28,81.17,CSE,0,Yes,Advanced,55.81,8.13,2,Placed
+7.66,69.94,90.09,Civil,2,Yes,Intermediate,26.64,6.85,4,Placed
+9.38,99.61,68.2,CSE,0,Yes,Beginner,40.71,3.05,4,Placed
+6.97,52.14,84.1,Civil,0,No,Intermediate,34.97,5.55,2,Not Placed
+8.43,98.36,77.39,EEE,3,Yes,Beginner,82.43,7.45,1,Placed
+8.41,52.46,92.82,Civil,2,No,Intermediate,72.31,6.51,3,Placed
+9.49,69.89,68.71,CSE,0,Yes,Intermediate,61.72,3.46,2,Placed
+9.07,90.86,77.14,ECE,0,Yes,Intermediate,54.07,3.29,4,Placed
+6.36,97.57,68.78,CSE,0,Yes,Advanced,46.07,4.43,3,Placed
+8.58,69.69,72.91,ECE,0,No,Beginner,85.21,9.31,2,Placed
+9.89,62.96,91.27,IT,2,Yes,Intermediate,70.98,5.46,0,Placed
+8.53,79.36,83.9,ECE,0,Yes,Beginner,70.49,9.81,0,Placed
+9.78,73.9,61.64,Mechanical,0,No,Intermediate,88.79,8.98,3,Placed
+8.85,50.84,59.84,Civil,1,No,Advanced,78.35,2.1,2,Placed
+6.9,89.7,67.44,Civil,0,Yes,Beginner,93.5,5.22,3,Placed
+5.52,75.95,99.95,EEE,0,No,Beginner,32.92,2.72,1,Not Placed
+5.26,75.21,66.3,CSE,2,Yes,Intermediate,43.87,5.54,4,Not Placed
+6.78,94.01,73.18,EEE,0,Yes,Intermediate,97.29,5.61,2,Placed
+9.95,65.85,69.57,Civil,1,Yes,Beginner,69.82,9.53,2,Placed
+8.06,92.42,89.09,IT,1,No,Beginner,74.39,8.73,4,Placed
+9.7,60.17,96.08,IT,2,No,Advanced,98.85,7.51,1,Placed
+5.17,60.35,60.26,ECE,0,No,Beginner,75.05,5.11,1,Not Placed
+7.28,90.42,98.69,CSE,0,No,Beginner,46.84,6.01,3,Placed
+6.49,95.72,94.53,IT,0,Yes,Advanced,85.39,5.66,1,Placed
+8.67,86.62,77.06,ECE,0,Yes,Beginner,75.23,7.71,0,Placed
+8.0,64.77,78.36,EEE,2,No,Intermediate,42.03,6.27,2,Placed
+8.72,53.11,95.75,Civil,2,Yes,Intermediate,87.54,9.97,3,Placed
+5.49,69.94,62.27,CSE,0,No,Intermediate,20.13,5.07,1,Not Placed
+8.98,95.13,73.44,Civil,0,Yes,Intermediate,47.27,6.05,3,Placed
+5.67,86.39,58.01,IT,0,No,Intermediate,22.08,3.35,0,Not Placed
+7.41,70.6,77.27,IT,0,No,Intermediate,25.25,7.99,2,Placed
+6.18,59.79,92.56,EEE,0,No,Intermediate,29.62,9.96,0,Placed
+9.09,73.6,94.15,IT,0,No,Intermediate,21.6,8.28,4,Placed
+9.23,76.2,65.0,Civil,2,No,Intermediate,79.21,9.03,3,Placed
+6.34,77.22,88.66,IT,0,No,Intermediate,47.64,2.13,1,Not Placed
+9.35,71.55,67.78,Civil,0,Yes,Advanced,79.28,2.61,2,Placed
+5.17,61.97,99.49,EEE,0,No,Intermediate,82.76,6.54,3,Not Placed
+8.16,72.87,67.78,CSE,0,No,Advanced,25.14,8.43,3,Placed
+8.87,74.43,95.57,EEE,3,No,Beginner,33.41,7.5,1,Placed
+8.28,97.59,67.59,IT,2,No,Intermediate,44.56,2.19,2,Placed
+7.48,78.94,96.08,Mechanical,1,No,Beginner,68.44,6.98,3,Placed
+6.66,73.56,93.38,Mechanical,0,Yes,Beginner,95.1,5.22,4,Placed
+8.31,66.46,84.89,Mechanical,1,No,Advanced,39.59,2.35,2,Placed
+7.04,67.07,72.96,ECE,0,No,Intermediate,31.15,9.9,4,Placed
+8.31,52.21,75.95,Mechanical,0,No,Advanced,46.63,4.82,3,Placed
+7.94,65.01,84.89,EEE,0,No,Beginner,87.62,6.14,2,Placed
+9.75,64.08,83.06,EEE,0,No,Intermediate,97.82,7.89,2,Placed
+8.17,63.78,64.75,ECE,3,No,Intermediate,30.77,2.56,1,Not Placed
+5.38,62.67,73.14,CSE,0,Yes,Intermediate,29.39,5.53,1,Not Placed
+6.25,95.11,54.52,CSE,0,No,Intermediate,24.06,2.48,0,Not Placed
+7.22,85.45,77.68,IT,1,Yes,Advanced,96.07,2.13,1,Placed
+5.26,95.94,51.71,CSE,0,Yes,Beginner,56.16,8.14,3,Not Placed
+6.68,80.9,54.53,IT,0,No,Beginner,73.67,9.98,4,Placed
+7.63,54.64,97.55,IT,0,No,Beginner,29.98,7.3,3,Placed
+7.2,78.17,67.96,IT,0,No,Intermediate,51.75,8.37,0,Placed
+6.38,92.99,68.46,CSE,0,No,Beginner,27.4,2.52,3,Not Placed
+8.74,59.39,56.1,Civil,0,No,Beginner,75.04,6.7,2,Placed
+5.22,96.04,54.92,IT,0,Yes,Intermediate,96.62,6.49,4,Not Placed
+8.46,69.4,77.44,CSE,0,No,Beginner,75.73,5.24,3,Placed
+6.36,57.7,73.55,Civil,0,No,Advanced,80.66,9.76,3,Placed
+6.12,89.44,75.44,IT,0,Yes,Beginner,66.29,2.67,2,Not Placed
+5.7,90.6,90.83,IT,0,Yes,Intermediate,89.52,2.32,5,Placed
+8.17,79.19,67.34,IT,0,No,Advanced,99.97,8.18,1,Placed
+8.48,90.36,75.79,Civil,0,No,Intermediate,92.1,7.41,5,Placed
+6.71,99.15,89.01,ECE,0,Yes,Advanced,72.4,4.66,0,Placed
+9.27,94.44,78.86,CSE,2,Yes,Intermediate,23.32,2.23,4,Placed
+5.22,66.93,97.83,IT,2,Yes,Beginner,29.95,9.18,3,Not Placed
+5.38,91.34,70.5,Civil,0,Yes,Beginner,71.85,8.73,4,Placed
+7.83,59.02,62.25,IT,0,No,Beginner,50.62,4.03,0,Not Placed
+5.41,66.94,58.35,ECE,0,No,Intermediate,37.3,9.42,1,Not Placed
+5.77,74.19,79.42,Mechanical,0,No,Intermediate,25.86,9.39,5,Not Placed
+8.24,66.39,61.86,EEE,0,No,Intermediate,66.14,2.83,2,Placed
+8.11,72.11,69.05,Civil,3,No,Intermediate,99.94,6.32,5,Placed
+7.12,87.26,93.2,CSE,0,No,Intermediate,50.09,6.68,4,Placed
+9.21,82.03,59.53,Civil,0,No,Beginner,85.7,6.86,2,Placed
+7.13,94.61,66.75,ECE,0,No,Intermediate,81.09,7.48,2,Placed
+7.95,87.75,51.76,IT,2,No,Beginner,35.54,9.37,1,Not Placed
+6.94,66.32,69.48,EEE,0,No,Advanced,94.68,4.66,1,Placed
+8.27,78.2,81.41,IT,0,No,Intermediate,69.98,2.48,1,Placed
+7.03,84.27,89.72,EEE,0,No,Advanced,49.57,2.73,0,Not Placed
+9.34,68.45,96.03,CSE,0,No,Beginner,49.39,2.11,0,Placed
+6.94,55.77,63.91,Civil,0,No,Beginner,97.27,8.23,3,Placed
+8.42,73.25,72.62,Mechanical,0,No,Intermediate,86.93,7.02,0,Placed
+9.2,64.64,56.76,IT,1,Yes,Beginner,60.96,4.28,4,Placed
+8.86,56.2,92.3,Mechanical,0,Yes,Intermediate,54.68,2.97,1,Placed
+8.54,78.62,73.18,Mechanical,0,Yes,Advanced,77.93,2.89,2,Placed
+5.52,52.93,91.42,EEE,0,No,Beginner,20.86,2.83,2,Not Placed
+5.15,84.67,91.33,CSE,0,No,Advanced,26.62,5.81,2,Not Placed
+7.45,84.76,83.35,EEE,1,No,Intermediate,88.83,8.23,4,Placed
+9.82,52.27,93.17,Mechanical,1,No,Advanced,39.23,2.91,0,Placed
+9.86,67.74,99.62,CSE,1,No,Beginner,66.75,7.72,1,Placed
+5.16,94.62,80.1,Mechanical,1,No,Beginner,73.54,4.03,3,Not Placed
+6.88,61.2,77.26,CSE,2,No,Intermediate,36.33,7.42,4,Not Placed
+8.21,55.7,61.32,Civil,0,Yes,Advanced,73.87,3.86,5,Placed
+8.1,85.71,96.18,EEE,2,Yes,Advanced,41.98,2.17,2,Placed
+5.48,96.91,70.43,Civil,2,Yes,Advanced,83.76,2.6,4,Not Placed
+5.44,81.21,96.66,EEE,1,No,Intermediate,83.84,5.64,3,Not Placed
+6.7,88.83,60.23,CSE,1,Yes,Advanced,96.91,9.47,2,Placed
+9.75,84.55,88.13,Mechanical,0,No,Advanced,92.84,2.93,3,Placed
+7.47,68.77,53.87,IT,0,No,Beginner,93.85,7.26,0,Placed
+7.12,93.05,58.02,Mechanical,0,No,Intermediate,65.74,4.48,3,Not Placed
+8.82,62.05,50.97,IT,1,No,Advanced,27.69,9.09,2,Placed
+9.07,98.89,94.3,ECE,1,No,Intermediate,69.71,2.57,1,Placed
+5.45,97.53,95.68,EEE,3,Yes,Intermediate,53.5,8.3,4,Not Placed
+8.35,97.26,92.33,Civil,0,No,Beginner,26.24,8.11,2,Placed
+6.11,92.16,64.89,IT,0,No,Intermediate,69.95,3.44,5,Placed
+9.51,78.32,90.05,CSE,1,No,Advanced,81.48,4.83,4,Placed
+8.27,50.32,51.7,Mechanical,0,Yes,Beginner,33.2,8.45,3,Placed
+5.83,83.56,87.91,ECE,0,No,Intermediate,85.12,8.06,3,Placed
+5.44,80.04,60.04,CSE,1,No,Intermediate,92.82,8.97,1,Placed
+8.64,99.0,84.55,Civil,0,Yes,Beginner,68.33,8.25,3,Placed
+9.82,89.63,57.91,Mechanical,1,Yes,Intermediate,24.06,7.46,4,Placed
+7.88,86.43,85.6,Civil,0,No,Advanced,72.43,3.89,3,Placed
+5.46,83.01,98.65,EEE,0,Yes,Intermediate,76.69,4.51,1,Not Placed
+5.59,64.66,74.43,Civil,1,Yes,Advanced,64.63,9.85,1,Not Placed
+7.6,80.91,96.85,CSE,1,No,Beginner,59.04,9.7,5,Placed
+6.76,57.08,54.47,EEE,1,No,Beginner,21.66,4.37,3,Not Placed
+6.9,51.58,97.59,Mechanical,2,No,Advanced,98.39,6.78,2,Not Placed
+6.04,81.02,90.24,Mechanical,0,No,Intermediate,40.56,4.55,3,Placed
+9.83,96.02,82.07,CSE,0,Yes,Beginner,49.21,3.54,4,Placed
+6.23,75.57,99.9,ECE,0,Yes,Beginner,27.68,8.09,1,Placed
+6.37,60.38,90.35,Mechanical,0,No,Beginner,62.22,5.97,5,Placed
+7.55,92.23,59.41,EEE,0,Yes,Beginner,45.99,4.75,3,Placed
+6.66,66.65,71.85,Civil,0,No,Intermediate,48.85,7.17,3,Placed
+5.73,96.97,74.43,IT,0,No,Intermediate,80.14,3.13,3,Placed
+8.25,59.25,50.13,CSE,0,Yes,Beginner,64.87,8.42,3,Placed
+5.72,89.25,62.07,EEE,1,No,Beginner,94.86,4.71,2,Not Placed
+8.27,98.67,80.23,EEE,1,No,Intermediate,38.99,2.84,3,Placed
+6.53,87.15,71.61,CSE,0,No,Beginner,29.85,5.69,2,Not Placed
+5.44,77.64,63.27,EEE,2,Yes,Intermediate,53.23,3.61,3,Not Placed
+5.81,66.92,94.84,Mechanical,1,No,Intermediate,97.31,2.22,4,Not Placed
+9.06,97.91,50.85,CSE,0,No,Advanced,55.07,4.13,4,Placed
+5.93,86.1,96.44,CSE,3,Yes,Intermediate,61.84,3.79,2,Not Placed
+8.37,91.87,63.88,ECE,1,No,Beginner,36.1,4.8,3,Placed
+6.27,96.96,88.32,Civil,1,Yes,Beginner,48.28,2.15,2,Placed
+6.62,55.3,99.64,EEE,0,Yes,Intermediate,24.2,5.32,1,Not Placed
+8.65,74.66,79.99,Mechanical,0,Yes,Advanced,90.79,6.98,2,Placed
+8.33,93.92,51.61,CSE,0,No,Advanced,52.62,5.32,3,Placed
+5.74,84.66,62.5,IT,2,Yes,Advanced,94.46,8.27,2,Placed
+7.59,70.8,79.27,IT,2,No,Intermediate,61.82,5.46,1,Placed
+5.57,95.02,51.39,Mechanical,0,Yes,Intermediate,29.18,7.33,3,Placed
+5.02,54.09,71.27,Civil,0,Yes,Beginner,53.45,2.98,4,Not Placed
+5.98,63.15,90.38,EEE,1,Yes,Intermediate,24.25,3.21,3,Not Placed
+6.06,86.27,95.69,ECE,0,No,Advanced,72.73,5.64,2,Placed
+9.91,70.17,54.48,ECE,1,No,Beginner,56.41,5.9,4,Placed
+6.67,68.62,80.52,CSE,1,No,Intermediate,96.04,7.4,4,Placed
+9.32,74.15,65.65,ECE,1,Yes,Beginner,79.32,9.23,1,Placed
+6.68,76.3,52.2,CSE,0,No,Intermediate,34.86,4.86,3,Not Placed
+9.43,61.74,99.59,IT,0,No,Intermediate,25.1,6.61,3,Placed
+7.23,92.28,94.92,Mechanical,0,Yes,Beginner,51.83,8.83,4,Placed
+5.11,75.46,88.75,CSE,0,Yes,Intermediate,54.42,7.72,3,Not Placed
+5.19,79.05,50.35,ECE,1,Yes,Intermediate,83.4,3.3,4,Not Placed
+5.86,82.31,56.54,Mechanical,0,No,Beginner,56.4,5.92,5,Not Placed
+5.67,59.25,66.65,EEE,0,Yes,Advanced,51.01,8.58,2,Placed
+9.29,77.11,96.02,Mechanical,0,No,Intermediate,53.93,7.57,4,Placed
+9.58,75.95,57.46,IT,0,No,Intermediate,42.16,3.99,1,Placed
+7.15,68.84,90.13,ECE,0,No,Beginner,86.22,8.12,2,Placed
+9.14,83.36,87.64,CSE,0,No,Intermediate,22.56,8.91,0,Placed
+9.88,93.1,54.1,EEE,2,No,Advanced,99.25,5.94,3,Placed
+8.15,77.12,67.44,CSE,0,No,Intermediate,58.15,7.68,1,Placed
+6.75,69.18,85.81,IT,0,No,Advanced,93.21,5.71,2,Placed
+9.73,79.6,67.55,EEE,0,Yes,Beginner,22.38,3.71,4,Placed
+9.63,54.34,75.36,Civil,0,Yes,Intermediate,30.76,4.16,4,Placed
+7.06,96.22,86.89,IT,1,No,Intermediate,43.61,4.96,4,Placed
+5.7,98.28,89.78,IT,0,No,Advanced,97.52,5.23,2,Placed
+7.21,69.84,68.06,Civil,0,Yes,Intermediate,80.58,9.17,4,Placed
+8.44,70.31,60.46,Mechanical,0,No,Advanced,38.79,8.18,0,Placed
+5.15,95.76,98.9,ECE,2,Yes,Intermediate,86.21,3.75,1,Not Placed
+9.24,85.34,94.23,EEE,0,Yes,Advanced,51.21,5.85,2,Placed
+9.96,99.23,83.27,Mechanical,0,Yes,Intermediate,60.14,2.57,3,Placed
+7.42,94.83,67.4,CSE,1,No,Advanced,69.44,3.13,2,Placed
+6.9,87.28,69.99,EEE,0,No,Advanced,46.72,5.04,4,Placed
+8.07,52.73,70.04,IT,0,Yes,Intermediate,57.1,8.4,0,Placed

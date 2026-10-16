@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+!models/.gitkeep
+instance/
+.pytest_cache/
+project_files.txt
+# Generated model reports
+models/*.png
+models/*.json
+
+# Local database
+database/*.db
+database/*.sqlite
+database/*.sqlite3

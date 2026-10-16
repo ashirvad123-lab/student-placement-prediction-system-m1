@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Prediction history</h2>
+<div class="card">
+  {% if entries %}
+  <table>
+    <thead>
+      <tr><th>ID</th><th>Student</th><th>Prediction</th><th>Probability</th><th>Model</th></tr>
+    </thead>
+    <tbody>
+      {% for entry in entries %}
+      <tr>
+        <td>{{ entry.id }}</td>
+        <td>{{ entry.student_id }}</td>
+        <td>{{ entry.predicted_status }}</td>
+        <td>{{ entry.placement_probability }}</td>
+        <td>{{ entry.model_name }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p>No prediction history yet.</p>
+  {% endif %}
+</div>
+{% endblock %}

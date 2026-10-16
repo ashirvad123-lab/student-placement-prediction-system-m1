@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Predict placement</h2>
+<div class="card">
+  <form method="post">
+    <div class="form-grid">
+      <div><label>CGPA<input name="cgpa" type="number" step="0.01" min="0" max="10" value="{{ features.CGPA if features else 8.5 }}" required></label></div>
+      <div><label>10th %<input name="tenth_percentage" type="number" step="0.01" min="0" max="100" value="{{ features['Tenth_Percentage'] if features else 85 }}" required></label></div>
+      <div><label>12th %<input name="twelfth_percentage" type="number" step="0.01" min="0" max="100" value="{{ features['Twelfth_Percentage'] if features else 88 }}" required></label></div>
+      <div><label>Branch
+        <select name="branch">
+          <option value="CSE" {% if features and features.Branch == 'CSE' %}selected{% endif %}>CSE</option>
+          <option value="IT" {% if features and features.Branch == 'IT' %}selected{% endif %}>IT</option>
+          <option value="ECE" {% if features and features.Branch == 'ECE' %}selected{% endif %}>ECE</option>
+          <option value="EEE" {% if features and features.Branch == 'EEE' %}selected{% endif %}>EEE</option>
+          <option value="Mechanical" {% if features and features.Branch == 'Mechanical' %}selected{% endif %}>Mechanical</option>
+          <option value="Civil" {% if features and features.Branch == 'Civil' %}selected{% endif %}>Civil</option>
+        </select>
+      </label></div>
+      <div><label>Backlogs<input name="backlogs" type="number" min="0" max="20" value="{{ features.Backlogs if features else 0 }}" required></label></div>
+      <div><label>Internship
+        <select name="internship_experience">
+          <option value="Yes" {% if features and features.Internship_Experience == 'Yes' %}selected{% endif %}>Yes</option>
+          <option value="No" {% if features and features.Internship_Experience == 'No' %}selected{% endif %}>No</option>
+        </select>
+      </label></div>
+      <div><label>Technical skill level
+        <select name="technical_skill_level">
+          <option value="Beginner" {% if features and features.Technical_Skill_Level == 'Beginner' %}selected{% endif %}>Beginner</option>
+          <option value="Intermediate" {% if features and features.Technical_Skill_Level == 'Intermediate' %}selected{% endif %}>Intermediate</option>
+          <option value="Advanced" {% if features and features.Technical_Skill_Level == 'Advanced' %}selected{% endif %}>Advanced</option>
+        </select>
+      </label></div>
+      <div><label>Aptitude score<input name="aptitude_score" type="number" step="0.01" min="0" max="100" value="{{ features.Aptitude_Score if features else 75 }}" required></label></div>
+      <div><label>Communication skills<input name="communication_skills" type="number" step="0.01" min="0" max="10" value="{{ features.Communication_Skills if features else 7.5 }}" required></label></div>
+      <div><label>Projects completed<input name="projects_completed" type="number" min="0" max="20" value="{{ features.Projects_Completed if features else 2 }}" required></label></div>
+    </div>
+    <div style="margin-top: 1rem;"><button type="submit">Run prediction</button></div>
+  </form>
+</div>
+
+{% if result %}
+<div class="result-box">
+  <h3>Prediction result</h3>
+  <p><strong>Status:</strong> {{ result.predicted_status }}</p>
+  <p><strong>Placement probability:</strong> {{ result.placement_probability }}</p>
+  <p><strong>Model:</strong> {{ result.model_name }}</p>
+</div>
+{% endif %}
+{% endblock %}
